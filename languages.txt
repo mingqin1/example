@@ -2,16 +2,7 @@ java
 
 c++  mingqin1
 mingqin2
-mingqin3
-mingqin4
-mingqin5
-mingqin6
-mingqin7
-mingqin8
+
 
 c++  simivalley1
 simivalley2
-simivalley3
-simivalley4
-simivalley5
-simivalley6
