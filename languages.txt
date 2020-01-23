@@ -1,5 +1,5 @@
 java
 
-c++  simivalley1
-simivalley2
-simivalley3
+c++  mingqin1
+mingqin2
+mingqin3
