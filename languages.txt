@@ -5,6 +5,7 @@ mingqin2
 mingqin3
 mingqin4
 mingqin5
+mingqin6
 
 c++  simivalley1
 simivalley2
