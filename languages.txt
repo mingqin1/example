@@ -3,6 +3,7 @@ java
 c++  mingqin1
 mingqin2
 mingqin3
+mingqin4
 
 c++  simivalley1
 simivalley2
